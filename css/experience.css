@@ -1,0 +1,28 @@
+table{
+    text-align: center;
+    align-items: center;
+    margin-left:  250px;
+    margin-top: 40px;
+    font-size: 18px;
+    color: black;
+    border: indigo;
+    background-color: rgb(245, 245, 245);
+    margin-bottom: 40px;
+
+}
+th{
+    background-color: indigo;
+    color: white;
+    font-size: 24px;
+    height: 60px;
+}
+td{
+    font-size: 20px;
+    height: 150px;
+    
+}
+.dis{
+    text-align:left ;
+    font-size: 18px;
+    height: 200px;
+}
